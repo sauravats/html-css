@@ -1,0 +1,19 @@
+h2 {
+	/*color:yellow;*/
+	display: block;
+	/*opacity: 0; for brightness, element put from 0 to 1*/ */
+}
+		ul, ol, h2 {
+			border:1px solid black;
+		}		
+		h2 {
+			font-family:fantasy;
+			width:60px;
+			height: 60px;
+			/*border-radius:50%;*/
+			text-align: center;
+			/*background: red;*/
+			/*padding:10px; */
+			padding: 10px 30px;
+			margin:50px;
+		}
